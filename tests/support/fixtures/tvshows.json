@@ -1,0 +1,66 @@
+{
+    "create": {
+        "title": "The Walking Dead",
+        "overview": "Um grupo de sobreviventes liderados pelo xerife Rick Grimes luta para se manter vivo em um mundo pós-apocalíptico dominado por zumbis.",
+        "company": "Fox Entertainment",
+        "release_year": 2010,
+        "seasons": "1",
+        "featured": true,
+        "cover": "/covers/tvshows/TheWalkingDead.png"
+    },
+    "to_remove": {
+        "title": "Z Nation",
+        "overview": "Um grupo diversificado de sobreviventes deve se unir para atravessar um território cheio de zumbis e levar o único sobrevivente conhecido de uma epidemia zumbi para um laboratório na Califórnia, onde sua sangue pode ajudar a encontrar uma cura.",
+        "company": "Paramount Pictures",
+        "release_year": 2014,
+        "seasons": "1",
+        "featured": false,
+        "cover": "/covers/tvshows/ZNation.jpg"
+    },
+    "duplicate": {
+        "title": "Fear the Walking Dead",
+        "overview": "Esta série é um drama familiar ambientado em Los Angeles, que segue os primeiros dias do apocalipse zumbi.",
+        "company": "Amazon Studios",
+        "release_year": 2015,
+        "seasons": "1",
+        "featured": false,
+        "cover": "/covers/tvshows/FearTheWalkingDead.png"
+    },
+    "search": {
+        "input": "zombie",
+        "outputs": [
+            "Zombie Land Saga",
+            "IZombie",
+            "Zombieverse"
+        ],
+        "data": [
+            {
+                "title": "Zombie Land Saga",
+                "overview": "Um grupo de ídolos zumbis é ressuscitado para se tornar estrelas do pop e revitalizar a indústria do entretenimento local.",
+                "company": "Netflix",
+                "release_year": 2021,
+                "seasons": "1",
+                "featured": true,
+                "cover": "/covers/tvshows/ZombieLandSaga.jpg"
+            },
+            {
+                "title": "IZombie",
+                "overview": "Em um reino medieval, uma epidemia misteriosa transforma as pessoas em zumbis. O príncipe herdeiro deve descobrir a fonte da doença e salvar seu povo.",
+                "company": "Netflix",
+                "release_year": 2015,
+                "seasons": "1",
+                "featured": true,
+                "cover": "/covers/tvshows/IZombie.jpg"
+            },
+            {
+                "title": "Zombieverse",
+                "overview": "Em meio ao apocalipse zumbi, um adolescente desbravador procura sua paixão desaparecida enquanto enfrenta gangues de zumbis e esquadrões de animais malucos.",
+                "company": "Netflix",
+                "release_year": 2020,
+                "seasons": "1",
+                "featured": false,
+                "cover": "/covers/tvshows/Zombieverse.jpg"
+            }
+        ]
+    }
+}

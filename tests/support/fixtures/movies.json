@@ -1,0 +1,64 @@
+{
+    "create": {
+      "title": "Guerra Mundial Z",
+      "overview": "Um ex-investigador da ONU é chamado para ajudar a conter uma pandemia global que transforma as pessoas em zumbis violentos.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "featured": true,
+      "cover": "/covers/movies/wwz.png"
+    },
+    "to_remove": {
+      "title": "A Noite dos Mortos-Vivos",
+      "overview": "Um grupo de pessoas fica preso em uma casa enquanto tenta sobreviver a uma invasão de mortos-vivos canibais.",
+      "company": "Universal Pictures",
+      "release_year": 1968,
+      "featured": false,
+      "cover": "/covers/movies/mortos-vivos.jpg"
+    },
+    "duplicate": {
+      "title": "Resident Evil: O Hóspede Maldito",
+      "overview": "Um grupo de pessoas tenta escapar de um laboratório subterrâneo cheio de zumbis após um experimento genético dar errado.",
+      "company": "Columbia Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "/covers/movies/resident-evil.jpg"
+    },
+    "search":{
+      "input": "zumbi",
+      "outputs": [
+        "Zumbilândia",
+        "Orgulho e Preconceito e Zumbis",
+        "Meu Namorado é um Zumbi"
+      ],
+      "data": [
+        {
+          "title": "Zumbilândia",
+          "overview": "Quatro sobreviventes tentam se manter vivos em um mundo cheio de zumbis enquanto viajam pelos Estados Unidos.",
+          "company": "Sony Pictures",
+          "release_year": 2009,
+          "featured": true,
+          "cover": "/caminho/para/zumbilandia.png"
+        },
+
+        {
+          "title": "Orgulho e Preconceito e Zumbis",
+          "overview": "Em um mundo pós-apocalíptico, um vírus transforma a maioria da população em zumbis. Um grupo tenta sobreviver e encontrar um local seguro.",
+          "company": "Universal Pictures",
+          "release_year": 2002,
+          "featured": false,
+          "cover": "/caminho/para/exterminio.png"
+        },
+
+        {
+          "title": "Meu Namorado é um Zumbi",
+          "overview": "Um grupo de pessoas fica preso em um shopping center enquanto tenta sobreviver ao apocalipse zumbi.",
+          "company": "Fox Entertainment",
+          "release_year": 2004,
+          "featured": false,
+          "cover": "/caminho/para/warm-bodies.png"
+        }
+
+      ]
+  }
+}
+  
