@@ -11,6 +11,12 @@ Repositório do projeto de testes automatizados do sistema Zombie Plus, constru�
 - Faker
 - PostgreSQL
 
+# Arquivos do projeto
+
+## API e Web
+
+Baixe os arquivos da API clicando [aqui](https://drive.google.com/file/d/1UBO9P8cDfsIKETcdUGxJ4QQJlp7G6xjF/view?usp=drive_link).
+
 ## 🤖 Como executar
 
 1. Clonar o repositório, instalar as dependências
